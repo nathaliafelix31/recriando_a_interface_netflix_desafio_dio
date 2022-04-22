@@ -6,5 +6,5 @@ como posicionar os elementos com Flexbox e como utilizar plugins JQuery a favor 
 
 
 ### 🚀 Starting
-Para iniciar o projeto, clone o repositório `https://github.com/nathaliafelix31/recriando_a_interface_netflix_desafio_dio.git` e abra o arquivo `index.html` em seu navegador preferido.
+Para iniciar o projeto, abra o Link https://nathaliafelix31.github.io/recriando_a_interface_netflix_desafio_dio/ em seu navegador preferido.
 
